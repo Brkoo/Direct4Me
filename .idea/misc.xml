@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FERI 5.semester/ProjektnaNaloga/paktnik/app/src/main/res/layout/activity_login.xml" value="0.21200607902735563" />
+        <entry key="..\:/FERI 5.semester/ProjektnaNaloga/paktnik/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/FERI 5.semester/ProjektnaNaloga/paktnik/app/src/main/res/layout/activity_recyler_view_cities.xml" value="0.33" />
+        <entry key="..\:/FERI 5.semester/ProjektnaNaloga/paktnik/app/src/main/res/layout/activity_regster.xml" value="0.21200607902735563" />
+        <entry key="..\:/FERI 5.semester/ProjektnaNaloga/paktnik/app/src/main/res/layout/card_view_design.xml" value="0.5289855072463768" />
+        <entry key="..\:/FERI 5.semester/ProjektnaNaloga/paktnik/app/src/main/res/layout/content_recyler_view_cities.xml" value="0.5289855072463768" />
+        <entry key="..\:/FERI 5.semester/ProjektnaNaloga/paktnik/app/src/main/res/layout/fragment_first.xml" value="0.26671732522796354" />
+        <entry key="..\:/FERI 5.semester/ProjektnaNaloga/paktnik/app/src/main/res/layout/fragment_second.xml" value="0.26671732522796354" />
+        <entry key="..\:/FERI 5.semester/ProjektnaNaloga/paktnik/app/src/main/res/layout/fragment_show_map.xml" value="0.38697916666666665" />
+        <entry key="..\:/FERI 5.semester/ProjektnaNaloga/paktnik/app/src/main/res/mipmap-anydpi-v26/paketnik_round.xml" value="0.4765" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/btn_top.xml" value="0.3855" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/circles.xml" value="0.2485" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/circles2.xml" value="0.2485" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/circles3.xml" value="0.2485" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.5125" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.5125" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.3855" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_baseline_qr_code_scanner_24.xml" value="0.2485" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_email.xml" value="0.3855" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_face_id.xml" value="0.5125" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_login_bg.xml" value="0.5125" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.3855" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.3855" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_person.xml" value="0.3855" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_register_bg.xml" value="0.3855" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_register_bg2.xml" value="0.5125" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_tablet_login_amico.xml" value="0.3855" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_undraw_authentication_re_svpt.xml" value="0.3855" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_undraw_mobile_encryption_re_yw3o.xml" value="0.3855" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_wave.xml" value="0.5125" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_wave_1_.xml" value="0.5125" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_wave_2_.xml" value="0.5125" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/ic_wave_4_.xml" value="0.14" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/login_btn_bg.xml" value="0.3855" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/odzadje.xml" value="0.5125" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/paketnik_background.xml" value="0.5125" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/round_button.xml" value="0.3595" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/drawable/side_nav_bar.xml" value="0.3855" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/font/aldrich.xml" value="0.4552083333333333" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/font/alfa_slab_one.xml" value="0.4552083333333333" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/font/montserrat.xml" value="0.4552083333333333" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.12550200803212852" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/layout-w936dp/activity_login.xml" value="0.146484375" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/layout/activity_regster.xml" value="0.25" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/layout/content_navigation.xml" value="0.5489130434782609" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/layout/fragment_gallery.xml" value="0.5489130434782609" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/layout/fragment_home.xml" value="0.5489130434782609" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/layout/fragment_slideshow.xml" value="0.5489130434782609" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/layout/nav_header_navigation.xml" value="0.5489130434782609" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/layout/register_layout.xml" value="0.1953125" />
+        <entry key="..\:/FERI4_semestrer/PROGRAMSKI JEZKI/paktnik/app/src/main/res/xml/file_paths.xml" value="0.5181159420289855" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

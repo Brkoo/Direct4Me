@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.aplikacijazaprojekt">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AplikacijaZaProjekt"
+        android:usesCleartextTraffic="true">
+
+        <!--
+             TODO: Before you run your application, you need a Google Maps API key.
+
+             To get one, follow the directions here:
+
+                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+             Once you have your API key (it starts with "AIza"), define a new property in your
+             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAML7JhF_8h7VwOV_qmuehUWiQP-7aMvcM" />
+
+        <activity
+            android:name=".TSP.MapsActivity"
+            android:exported="true"
+            android:label="@string/title_activity_recyler_view_cities"
+            android:theme="@style/Theme.AplikacijaZaProjekt.NoActionBar" />
+
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.android.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <activity
+            android:name=".userLogin.RegsterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".userLogin.LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:screenOrientation="fullSensor"
+            tools:replace="screenOrientation" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
