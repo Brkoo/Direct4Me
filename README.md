@@ -10,8 +10,8 @@ The Direct4me Smart Box app is a convenient tool for managing and accessing Dire
 
 ## Screenshots
 
-![](images/srceenshot01.jpg)
-![](images/srceenshot02.jpg)
-![](images/srceenshot03.jpg)
-![](images/srceenshot04.jpg)
-![](images/srceenshot05.jpg)
+![](images/srceenshot(1).jpg)
+![](images/srceenshot(2).jpg)
+![](images/srceenshot(3).jpg)
+![](images/srceenshot(4).jpg)
+![](images/srceenshot(5).jpg)
